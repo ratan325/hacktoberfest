@@ -17,9 +17,9 @@
    _\__|__/_
   (___/ \___)
 </pre>
-Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing! Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
+Use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing! Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open-source community by completing some simple tasks in this project.
 
-This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator. Actually, this repository wa
+This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator. Actually, this repository WA
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
@@ -39,7 +39,7 @@ git checkout -b branch-name
 * Commit and push
 
 ```markdown
-git add .
+git add.
 git commit -m 'Commit message'
 git push origin branch-name
 ```
@@ -62,7 +62,7 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 ### Give this Project a Star :star:
 
 If you liked working on this project, please share this project as much 
-as you can and star this project to help as many people in opensource as you can.
+as you can and start this project to help as many people in opensource as you can.
 
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
